@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @RawLunaHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ckituzer
+- 👀 I’m interested in Lua
+- 🌱 I’m currently learning C#
 
 <!---
-RawLunaHub/RawLunaHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RawLunaHub/RawLunaHub is a ✨ special ✨ repository because its `README.md` (this file) appears on my Github.
 You can click the Preview link to take a look at your changes.
 --->
